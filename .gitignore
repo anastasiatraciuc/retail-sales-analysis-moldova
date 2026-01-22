@@ -1,0 +1,10 @@
+# Old / чужие датасеты
+Diwali Sales Data.csv
+Diwali_Sales_Analysis.ipynb
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
