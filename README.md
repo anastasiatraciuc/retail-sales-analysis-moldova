@@ -1,27 +1,36 @@
-# Retail Sales Analysis – Republic of Moldova
+# Retail Sales Analysis — Republic of Moldova
 
-This project presents an exploratory data analysis of retail sales using Python (NumPy, Pandas, Matplotlib, Seaborn).
-The analysis is based on a synthetic dataset generated specifically for the Republic of Moldova and is intended for educational and portfolio purposes.
+This repository contains a retail sales analysis project based on a synthetic dataset representing customer purchases in the Republic of Moldova.
 
-## Key Objectives
-- Explore customer purchasing behavior
-- Analyze sales distribution by gender, age group, region, and product category
-- Identify trends in order volume and total sales amount
-- Demonstrate data cleaning, aggregation, and visualization skills
+The project focuses on data preparation, aggregation, and visualization to identify patterns in customer behavior, sales distribution, and order volume.  
+The analysis is implemented using Python and presented both as a Jupyter Notebook and an interactive Streamlit application.
 
-## Dataset
-The dataset contains synthetic retail transaction data, including:
-- Customer demographics (gender, age group, marital status)
-- Geographic information (region and zone within Moldova)
-- Product categories and order information
-- Total purchase amounts
+## Project Scope
 
-## Tools & Technologies
+The analysis covers:
+- Distribution of sales by gender and age group
+- Order frequency and purchase amount analysis
+- Regional and product-level aggregation
+- Basic customer segmentation based on transactional data
+
+The dataset is synthetic and created for educational and portfolio purposes.
+
+## Structure
+
+- `app.py` — Streamlit dashboard for interactive data exploration  
+- `Retail_Sales_Analysis_Moldova.ipynb` — Jupyter Notebook with step-by-step analysis  
+- `products.csv` — product reference data  
+- `README.md` — project documentation  
+
+## Technologies Used
+
 - Python
-- Pandas & NumPy for data processing
-- Matplotlib & Seaborn for visualization
-- Jupyter Notebook for analysis
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Streamlit
+- Jupyter Notebook
 
 ## Notes
-All data used in this project is synthetic and does not represent real individuals or real commercial transactions.
-The project focuses on analytical techniques rather than real-world business conclusions.
+
+This project is intended to demonstrate practical data analysis and visualization skills.  
+All data used is artificial and does not represent real individuals or commercial transactions.
