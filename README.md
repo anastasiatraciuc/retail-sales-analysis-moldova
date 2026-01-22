@@ -1,3 +1,13 @@
+## Project Structure
+
+.
+├── app.py
+├── Retail_Sales_Analysis_Moldova.ipynb
+├── products.csv
+├── README.md
+└── .gitignore
+
+
 # Retail Sales Analysis – Republic of Moldova
 
 This project presents an exploratory data analysis of retail sales using Python (NumPy, Pandas, Matplotlib, Seaborn).
