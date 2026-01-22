@@ -24,12 +24,6 @@ The analysis covers:
 
 The dataset is synthetic and created for educational and portfolio purposes.
 
-## Structure
-
-- `app.py` — Streamlit dashboard for interactive data exploration  
-- `Retail_Sales_Analysis_Moldova.ipynb` — Jupyter Notebook with step-by-step analysis  
-- `products.csv` — product reference data  
-- `README.md` — project documentation  
 
 ## Technologies Used
 
@@ -43,6 +37,7 @@ The dataset is synthetic and created for educational and portfolio purposes.
 
 This project is intended to demonstrate practical data analysis and visualization skills.  
 All data used is artificial and does not represent real individuals or commercial transactions.
+Based on an initial public dataset, fully reworked and extended for analytical purposes.
 
 ## How to run
 1. Install dependencies:
