@@ -97,5 +97,5 @@ User_ID,Cust_name,Product_ID,Gender,Age Group,Age,Marital_Status,State,Zone,Occu
 100096,Svetlana Rotaru,P0096,F,18-25,21,0,Bălți,Nord,Student,Food,1,340,Completed,
 100097,Radu Ciobanu,P0097,M,26-35,28,1,Chișinău,Centru,IT,Electronics,2,4200,Completed,
 100098,Elena Moraru,P0098,F,36-45,43,1,Cahul,Sud,Healthcare,Cosmetics,3,2900,Completed,
-100099,Ion Sandu,P0099,M,46-55,55,1,Ungheni,Centru,Management,Household,1,3000,Completed,
-100100,Adriana Popescu,P0100,F,26-35,31,1,Soroca,Nord,Education,Books,2,1550,Completed,
+100099,Ion Bezer,P0099,M,46-55,55,1,Ungheni,Centru,Management,Household,1,3000,Completed,
+100100,Adriana Celentano,P0100,F,26-35,31,1,Soroca,Nord,Education,Books,2,1550,Completed,
