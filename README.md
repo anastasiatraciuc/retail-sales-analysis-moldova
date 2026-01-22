@@ -43,3 +43,12 @@ The dataset is synthetic and created for educational and portfolio purposes.
 
 This project is intended to demonstrate practical data analysis and visualization skills.  
 All data used is artificial and does not represent real individuals or commercial transactions.
+
+## How to run
+1. Install dependencies:
+
+    pip install pandas numpy matplotlib seaborn streamlit
+
+2. Run the Streamlit application:
+
+    streamlit run app.py
