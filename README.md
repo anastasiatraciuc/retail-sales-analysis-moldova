@@ -1,11 +1,10 @@
 ## Project Structure
 
-.
-├── app.py
-├── Retail_Sales_Analysis_Moldova.ipynb
-├── products.csv
-├── README.md
-└── .gitignore
+- `app.py` — Streamlit application entry point  
+- `Retail_Sales_Analysis_Moldova.ipynb` — exploratory data analysis notebook  
+- `products.csv` — synthetic product-level dataset  
+- `README.md` — project documentation  
+- `.gitignore` — ignored files and directories
 
 
 # Retail Sales Analysis – Republic of Moldova
