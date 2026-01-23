@@ -24,6 +24,47 @@ The analysis covers:
 
 The dataset is synthetic and created for educational and portfolio purposes.
 
+## Data Visualizations
+
+### Revenue by City
+![Revenue by City](images/revenue_by_city.png)
+
+**Insight:**  
+Chișinău generates the highest retail revenue, significantly outperforming other cities. This reflects higher population density and purchasing activity. Mid-sized cities such as Cahul and Comrat show moderate revenue levels, while smaller cities contribute a lower share.
+
+
+
+### Sales by Product Category
+![Sales by Category](images/sales_by_category.png)
+
+**Insight:**  
+Household goods and electronics account for the largest share of total sales, indicating strong demand for essential and high-value products. Categories such as books and gifts contribute comparatively less to overall revenue.
+
+
+
+### Orders vs Revenue per Customer
+![Orders vs Revenue](images/orders_vs_revenue.png)
+
+**Insight:**  
+Customers with a higher number of orders generally generate higher total revenue. However, several customers with fewer orders still show high spending, indicating the presence of high-value purchases.
+
+
+
+### Gender and Age Group Heatmap
+![Gender Age Heatmap](images/gender_age_heatmap.png)
+
+**Insight:**  
+The most active purchasing segment is the 26–35 age group. Female customers dominate in younger segments, while male customers show higher activity in the 36–45 and 46–55 age groups.
+
+
+
+### Top 20 Customers by Revenue
+![Top 20 Customers](images/top_20_customers.png)
+
+**Insight:**  
+A small group of top customers contributes a disproportionately large share of total revenue, highlighting the importance of customer retention and loyalty strategies.
+
+
 
 ## Technologies Used
 
